@@ -48,9 +48,6 @@ This project analyzes and compares various machine learning models for detecting
 - **🛠️ Real-World Testing**: Implement the models within actual IoT infrastructures to validate their performance in operational settings.
 - **🔒 Ethical and Regulatory Compliance**: Ensure data privacy and mitigate biases in future models to adhere to data protection regulations (e.g., GDPR).
 
-## 📜 References
-
-For detailed references, please refer to the References section in the main project document.
 
 ---
 
